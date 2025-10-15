@@ -6,3 +6,4 @@ example_data/*
 example_results/*
 test_results/*
 *.out
+example/0.01_0.1_out
